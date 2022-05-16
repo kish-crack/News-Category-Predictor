@@ -3,4 +3,4 @@ This classification model when provided with the news headline, based on the dat
 It uses Naive Bias as a tool to categorize the headline
 All what is required is the user to enter the news headline. 
 
-Link: https://www.kaggle.com/code/kishan02/news-predictor-na-ve-bias
+Link: https://www.kaggle.com/code/kishan02/news-classification-naive-bias
